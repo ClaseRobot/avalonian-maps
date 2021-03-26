@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mapa1",
+        "tier": "7",
+        "tipo": "Intersección",
+        "cofres": 3,
+        "Spots": 4
+    },
+    {
+        "id": 2,
+        "nombre": "Mapa2",
+        "tier": "5",
+        "tipo": "Camino",
+        "cofres": 0,
+        "Spots": 6
+    },
+    {
+        "id": 3,
+        "nombre": "Mapa3",
+        "tier": "7",
+        "tipo": "Intersección",
+        "cofres": 3,
+        "Spots": 4
+    },
+    {
+        "id": 4,
+        "nombre": "Mapa4",
+        "tier": "7",
+        "tipo": "Intersección",
+        "cofres": 3,
+        "Spots": 4
+    }
+]
